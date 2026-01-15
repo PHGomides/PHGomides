@@ -10,11 +10,11 @@
 
 <br/>
 
-- 👋 **About Me:** I am a Back-end Developer and Academic Researcher focused on solving complex problems through efficient algorithms and solid architecture.
-- 🎓 **M.Sc. Student** in Computer Science at **Unicamp**.
+- 👋 **Profile:** Back-end Developer & Researcher focused on algorithms and clean architecture.
+- 🎓 **Education:** M.Sc. Student in Computer Science at **Unicamp**.
 - 🔬 **Research:** Combinatorial Optimization & Algorithm Analysis.
 - 🔭 **Working on:** High-Performance RESTful APIs.
-- 🌱 **Deepening knowledge in:** Java, Spring Ecosystem & Software Architecture.
+- 🌱 **Stack:** Java, Spring Ecosystem & Software Architecture.
 
 <br/>
 
@@ -46,17 +46,9 @@
 ---
 
 <h3>📫 Contact</h3>
-<a href="https://www.linkedin.com/in/pedrohenriquegomidesmoraes/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:gomidesmoraesp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/pedrohenrique.gm/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/pedrohenriquegomidesmoraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:gomidesmoraesp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.instagram.com/pedro_h_gomides/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
 
