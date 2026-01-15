@@ -1,11 +1,11 @@
-### Olá! Eu sou o Pedro Henrique 👋
+### Hi👋, I'm Pedro Henrique
 
-Sou um Desenvolvedor Back-end e pesquisador acadêmico. Bacharel em Ciência da Computação, focado em resolver problemas complexos através de algoritmos eficientes e arquitetura sólida.
+I am a Back-end Developer and Academic Researcher. B.Sc. in Computer Science, focused on solving complex problems through efficient algorithms and solid architecture.
 
-- 🎓 Mestrando na **Unicamp** em Ciência da Computação
-- 🔬 Pesquisa: **Otimização Combinatória e Análise de Algoritmos**
-- 🔭 Trabalhando em: **Projetos de Portfólio (API RESTful de Alta Performance)**
-- 🌱 Tech Stack: **Java, Spring Ecosystem & Bancos Relacionais**
+- 🎓 M.Sc. Student in Computer Science at **Unicamp**
+- 🔬 Research: **Combinatorial Optimization & Algorithm Analysis**
+- 🔭 Currently working on: **Portfolio Projects (High-Performance RESTful APIs)**
+- 🌱 Deepening knowledge in: **Java, Spring Ecosystem & Software Architecture**
 
 
 ---
@@ -24,7 +24,7 @@ Sou um Desenvolvedor Back-end e pesquisador acadêmico. Bacharel em Ciência da 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHGomides&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,7 +33,7 @@ Sou um Desenvolvedor Back-end e pesquisador acadêmico. Bacharel em Ciência da 
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquegomidesmoraes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomidesmoraesp@gmail.com)
