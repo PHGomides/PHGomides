@@ -6,21 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=435&lines=Back-end+Developer;M.Sc.+Student+at+Unicamp;Java+%26+Spring+Enthusiast&center=true&vCenter=true" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<p>
-  I am a Back-end Developer and Academic Researcher.<br>
-  B.Sc. in Computer Science, focused on solving complex problems through efficient algorithms and solid architecture.
-</p>
-
-<p>
-  🎓 M.Sc. Student in Computer Science at <b>Unicamp</b><br>
-  🔬 Research: <b>Combinatorial Optimization & Algorithm Analysis</b><br>
-  🔭 Working on: <b>High-Performance RESTful APIs</b><br>
-  🌱 Deepening knowledge in: <b>Java, Spring Ecosystem & Software Architecture</b>
-</p>
+</div>
 
 <br/>
+
+- 👋 **About Me:** I am a Back-end Developer and Academic Researcher focused on solving complex problems through efficient algorithms and solid architecture.
+- 🎓 **Education:** M.Sc. Student in Computer Science at **Unicamp**.
+- 🔬 **Research:** Combinatorial Optimization & Algorithm Analysis.
+- 🔭 **Working on:** High-Performance RESTful APIs.
+- 🌱 **Deepening knowledge in:** Java, Spring Ecosystem & Software Architecture.
+
+<br/>
+
+<div align="center">
 
 ---
 
@@ -54,6 +52,10 @@
 <a href="mailto:gomidesmoraesp@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/pedrohenrique.gm/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer"/>
