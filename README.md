@@ -11,7 +11,7 @@
 <br/>
 
 - 👋 **About Me:** I am a Back-end Developer and Academic Researcher focused on solving complex problems through efficient algorithms and solid architecture.
-- 🎓 **Education:** M.Sc. Student in Computer Science at **Unicamp**.
+- 🎓 **M.Sc. Student** in Computer Science at **Unicamp**.
 - 🔬 **Research:** Combinatorial Optimization & Algorithm Analysis.
 - 🔭 **Working on:** High-Performance RESTful APIs.
 - 🌱 **Deepening knowledge in:** Java, Spring Ecosystem & Software Architecture.
