@@ -38,8 +38,8 @@
 ---
 
 <h3>📊 GitHub Stats</h3>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PHGomides&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHGomides&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-beta-sepia-90.vercel.app/api?username=PHGomides&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-beta-sepia-90.vercel.app/api/top-langs/?username=PHGomides&layout=compact&theme=tokyonight"/>
 <br/><br/>
 
 ---
